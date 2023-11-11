@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tgalton
 - 👀 I’m interested in plants, science and DIY.
-- 🌱 I’m currently learning JS, PHP, CSS, SCSS, SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Angular, Spring 
+
 
 <!---
 tgalton/tgalton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
